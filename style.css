@@ -2,13 +2,13 @@ body{
     text-align:center;
 }
 
-h1{
+#titulo{
     color:blue;
     color:red;
     font-size:30px;
 }
 
-p{
+.texto{
     color:red;
     font-size:20px;
 }
