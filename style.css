@@ -16,3 +16,9 @@ body{
     font-size:30px;
     
 }
+
+.simple-highlight{
+    color: white;
+    background-color: brown;
+    padding: 0.1em 0.2em;
+}
