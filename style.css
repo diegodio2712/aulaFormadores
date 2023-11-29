@@ -7,7 +7,7 @@ body{
     text-align:center;
     color:#B2C8BA;
     font-size:50px;
-    backfround-color:#D2E3C8;
+    background-color:#D2E3C8;
 }
 
 .texto{
@@ -26,4 +26,12 @@ body{
 .paragrafo1{
     background-image: linear-gradient(#A9B388, #A9ff88);
 
+}
+
+header{
+    padding: 20px;
+    background-color: #3c0142;
+    border-bottom: 2px solid white;
+    font-size: 32px;
+    color: white;
 }
